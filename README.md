@@ -1,4 +1,4 @@
-To start application
+#To start application
 
 After you git pull
 
